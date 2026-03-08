@@ -1,0 +1,11 @@
+store_id,store_name,city,state,region,manager_name,opening_date
+1,Store 1,New York,NY,Northeast,Manager 1,2024-05-27
+2,Store 2,Los Angeles,CA,West,Manager 2,2025-03-05
+3,Store 3,Chicago,IL,Midwest,Manager 3,2023-10-27
+4,Store 4,Houston,TX,South,Manager 4,2024-04-10
+5,Store 5,Phoenix,AZ,West,Manager 5,2024-09-17
+6,Store 6,Philadelphia,PA,Northeast,Manager 6,2024-04-11
+7,Store 7,San Antonio,TX,South,Manager 7,2024-10-17
+8,Store 8,San Diego,CA,West,Manager 8,2024-11-24
+9,Store 9,Dallas,TX,South,Manager 9,2025-04-19
+10,Store 10,San Jose,CA,West,Manager 10,2025-07-11

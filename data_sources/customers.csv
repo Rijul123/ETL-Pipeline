@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone,city,state,registration_date
+1,Customer_1,Last_1,customer1@email.com,555-2824,Los Angeles,AZ,2025-09-12
+2,Customer_2,Last_2,customer2@email.com,555-1409,Los Angeles,CA,2025-12-29
+3,Customer_3,Last_3,customer3@email.com,555-5506,Philadelphia,CA,2025-10-11
+4,Customer_4,Last_4,customer4@email.com,555-5012,Houston,NY,2025-12-18
+5,Customer_5,Last_5,customer5@email.com,555-4657,Philadelphia,TX,2025-07-28
+6,Customer_6,Last_6,customer6@email.com,555-3286,San Antonio,NY,2025-09-18
+7,Customer_7,Last_7,customer7@email.com,555-2679,San Diego,TX,2025-06-20
+8,Customer_8,Last_8,customer8@email.com,555-9935,San Antonio,CA,2025-03-19
+9,Customer_9,Last_9,customer9@email.com,555-2424,San Diego,NY,2025-08-05
+10,Customer_10,Last_10,customer10@email.com,555-7912,Philadelphia,PA,2025-11-16
+11,Customer_11,Last_11,customer11@email.com,555-1520,San Antonio,AZ,2025-08-02
+12,Customer_12,Last_12,customer12@email.com,555-1488,Houston,IL,2025-08-10
+13,Customer_13,Last_13,customer13@email.com,555-2535,New York,TX,2025-10-23
+14,Customer_14,Last_14,customer14@email.com,555-4582,Philadelphia,PA,2025-09-24
+15,Customer_15,Last_15,customer15@email.com,555-4811,San Diego,IL,2025-03-13
+16,Customer_16,Last_16,customer16@email.com,555-9279,Phoenix,IL,2026-01-02
+17,Customer_17,Last_17,customer17@email.com,555-1434,San Diego,NY,2025-04-02
+18,Customer_18,Last_18,customer18@email.com,555-4257,Phoenix,IL,2025-03-19
+19,Customer_19,Last_19,customer19@email.com,555-9928,Los Angeles,AZ,2025-11-12
+20,Customer_20,Last_20,customer20@email.com,555-7873,San Antonio,PA,2025-05-10
+21,Customer_21,Last_21,customer21@email.com,555-4611,Phoenix,IL,2025-10-05
+22,Customer_22,Last_22,customer22@email.com,555-8359,San Diego,NY,2025-11-16
+23,Customer_23,Last_23,customer23@email.com,555-5557,Los Angeles,AZ,2025-06-16
+24,Customer_24,Last_24,customer24@email.com,555-1106,New York,CA,2025-07-28
+25,Customer_25,Last_25,customer25@email.com,555-3615,Houston,PA,2025-09-22
+26,Customer_26,Last_26,customer26@email.com,555-7924,Houston,IL,2025-03-17
+27,Customer_27,Last_27,customer27@email.com,555-6574,Houston,NY,2025-04-28
+28,Customer_28,Last_28,customer28@email.com,555-5552,Phoenix,CA,2025-10-18
+29,Customer_29,Last_29,customer29@email.com,555-3547,New York,CA,2025-08-25
+30,Customer_30,Last_30,customer30@email.com,555-4527,Phoenix,TX,2026-01-10
+31,Customer_31,Last_31,customer31@email.com,555-6514,San Antonio,AZ,2025-10-13
+32,Customer_32,Last_32,customer32@email.com,555-2674,Phoenix,IL,2026-01-22
+33,Customer_33,Last_33,customer33@email.com,555-2519,New York,NY,2025-08-30
+34,Customer_34,Last_34,customer34@email.com,555-7224,New York,TX,2025-07-17
+35,Customer_35,Last_35,customer35@email.com,555-2584,San Antonio,AZ,2025-09-23
+36,Customer_36,Last_36,customer36@email.com,555-6881,New York,TX,2026-01-05
+37,Customer_37,Last_37,customer37@email.com,555-6635,San Diego,PA,2025-10-22
+38,Customer_38,Last_38,customer38@email.com,555-5333,New York,AZ,2025-04-23
+39,Customer_39,Last_39,customer39@email.com,555-1711,Houston,AZ,2025-08-30
+40,Customer_40,Last_40,customer40@email.com,555-8527,San Diego,IL,2025-10-22
+41,Customer_41,Last_41,customer41@email.com,555-9785,San Diego,AZ,2025-03-09
+42,Customer_42,Last_42,customer42@email.com,555-3045,San Antonio,TX,2025-05-28
+43,Customer_43,Last_43,customer43@email.com,555-7201,Chicago,AZ,2025-07-20
+44,Customer_44,Last_44,customer44@email.com,555-2291,Chicago,IL,2025-03-15
+45,Customer_45,Last_45,customer45@email.com,555-5803,New York,IL,2025-06-18
+46,Customer_46,Last_46,customer46@email.com,555-6925,San Diego,PA,2025-11-26
+47,Customer_47,Last_47,customer47@email.com,555-4150,Chicago,TX,2025-09-25
+48,Customer_48,Last_48,customer48@email.com,555-2139,Chicago,CA,2025-11-28
+49,Customer_49,Last_49,customer49@email.com,555-1750,New York,CA,2025-10-04
+50,Customer_50,Last_50,customer50@email.com,555-4733,Chicago,AZ,2025-04-26
